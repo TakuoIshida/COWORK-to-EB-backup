@@ -1,0 +1,19 @@
+current directory: /home/ec2-user/environment/railsApp/vendor/bundle/ruby/2.6.0/gems/byebug-11.1.0/ext/byebug
+/home/ec2-user/.rbenv/versions/2.6.5/bin/ruby -I /home/ec2-user/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20200123-5431-4voumj.rb extconf.rb
+creating Makefile
+
+current directory: /home/ec2-user/environment/railsApp/vendor/bundle/ruby/2.6.0/gems/byebug-11.1.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/ec2-user/environment/railsApp/vendor/bundle/ruby/2.6.0/gems/byebug-11.1.0/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/ec2-user/environment/railsApp/vendor/bundle/ruby/2.6.0/gems/byebug-11.1.0/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20200123-5431-1xon9eu/byebug
